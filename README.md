@@ -30,3 +30,13 @@ H1-hESC | H3k36me3 | H3k36me3.bam | Control.bam
 H1-hESC | H3k79me2 | H3k79me2.bam | Control.bam
 H1-hESC | H4k20me1 | H4k20me1.bam | Control.bam
 H1-hESC | H3K27me3 | H3K27me3.bam | Control.bam
+
+## Таблица ChromHMM
+
+Emission | Overlap | Transition 
+ --- | --- | ---
+![Image](https://github.com/Lenassskuh/hse_hw3_chromhmm/blob/main/data/emissions_15.png) | ![Image](https://github.com/Lenassskuh/hse_hw3_chromhmm/blob/main/data/H1-hESC_15_overlap.png) | ![Image](https://github.com/Lenassskuh/hse_hw3_chromhmm/blob/main/data/transitions_15.png)
+
+RefSeqTSS | RefSeqTES 
+ --- | --- 
+![Image](https://github.com/Lenassskuh/hse_hw3_chromhmm/blob/main/data/H1-hESC_15_RefSeqTSS_neighborhood.png) | ![Image](https://github.com/Lenassskuh/hse_hw3_chromhmm/blob/main/data/H1-hESC_15_RefSeqTES_neighborhood.png)

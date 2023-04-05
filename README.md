@@ -1,5 +1,5 @@
 # hse_hw3_chromhmm
- Ссылка на колаб: https://colab.research.google.com/drive/1l4EM_ofKS7mZGYGwGKCzaliN-A1a3Y6F?usp=sharing
+ [Ссылка на колаб](https://colab.research.google.com/drive/1l4EM_ofKS7mZGYGwGKCzaliN-A1a3Y6F?usp=sharing)
  
  В прошлом дз я использовала клеточную линию H1, так как её я не нашла, в этом дз будет проанализирована клеточная линия H1-hESC
  
@@ -60,3 +60,11 @@ RefSeqTSS | RefSeqTES
 14 | Heterochromatin | <ul><li> нигде не выражен  </li><li> Чаще всего находятся на ядерной ламине, то есть попадает на участок репрессированного гетерохроматима </li><li> Не попадает на ген </li> | ![Image](https://github.com/Lenassskuh/hse_hw3_chromhmm/blob/main/data/14.png)
 15 | Weak enhancer | <ul><li> выражен в H3K4me1 </li><li> Чаще всего находятся на ядерной ламине, RefSeqTES, RefSeqGene </li> | ![Image](https://github.com/Lenassskuh/hse_hw3_chromhmm/blob/main/data/15.png)
 
+## Бонус
+
+[Ссылка на zip-архив](https://github.com/Lenassskuh/hse_hw3_chromhmm/blob/main/H1-hESC_15_dense_new.bed.zip)
+
+Сам код можно посмотреть в [колабе](https://colab.research.google.com/drive/1l4EM_ofKS7mZGYGwGKCzaliN-A1a3Y6F?usp=sharing) 
+
+Скрин с именами состояний
+![Image](https://github.com/Lenassskuh/hse_hw3_chromhmm/blob/main/data/bonus.png)
